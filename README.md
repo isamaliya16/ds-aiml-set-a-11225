@@ -14,11 +14,11 @@
 
 <div align="center">
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1CZlv6WK_BTNo6FV4MVIxxmi502dkfA2v/view?usp=sharing)
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1rK7lXBTkht2yww4X4OhdbCGaGiKW_L2Q/view?usp=sharing)
 
 > 🎥 **A complete end-to-end video explanation** of this Data Science & AI/ML project — covering the raw data audit and de-duplication, the stratified fit/validation/test split, descriptive & inferential statistics on customer engagement, leakage-safe preprocessing and feature engineering, the baseline vs. logistic regression comparison for predicting campaign response, K-Means customer segmentation, and the final ANN build with early stopping.
 
-> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/1CZlv6WK_BTNo6FV4MVIxxmi502dkfA2v/view?usp=sharing)*
+> 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/1rK7lXBTkht2yww4X4OhdbCGaGiKW_L2Q/view?usp=sharing)*
 
 </div>
 
